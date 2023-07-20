@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\1234.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1234.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\Fridge.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Fridge.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\Led.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Led.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\MyImage.png",
+      "PackagePath": "staticwebassets\\uploads\\MyImage.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\image_2023_07_08T06_13_32_092Z.png",
+      "PackagePath": "staticwebassets\\uploads\\image_2023_07_08T06_13_32_092Z.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\kissan.pdf",
+      "PackagePath": "staticwebassets\\uploads\\kissan.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MvcCoreAssignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MvcCoreAssignment.props",
+      "PackagePath": "build\\MvcCoreAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MvcCoreAssignment.props",
+      "PackagePath": "buildMultiTargeting\\MvcCoreAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MvcCoreAssignment.props",
+      "PackagePath": "buildTransitive\\MvcCoreAssignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

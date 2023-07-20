@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\bin\Debug\net6.0\ShoppingCartDataLayer.deps.json
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\bin\Debug\net6.0\ShoppingCartDataLayer.runtimeconfig.json
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\bin\Debug\net6.0\ShoppingCartDataLayer.dll
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\bin\Debug\net6.0\ShoppingCartDataLayer.pdb
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\obj\Debug\net6.0\ShoppingCartDataLayer.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\obj\Debug\net6.0\ShoppingCartDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\obj\Debug\net6.0\ShoppingCartDataLayer.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\obj\Debug\net6.0\ShoppingCartDataLayer.AssemblyInfo.cs
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\obj\Debug\net6.0\ShoppingCartDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\obj\Debug\net6.0\ShoppingCartDataLayer.dll
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\obj\Debug\net6.0\refint\ShoppingCartDataLayer.dll
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\obj\Debug\net6.0\ShoppingCartDataLayer.pdb
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\obj\Debug\net6.0\ShoppingCartDataLayer.genruntimeconfig.cache
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartLogicLayer\obj\Debug\net6.0\ref\ShoppingCartDataLayer.dll

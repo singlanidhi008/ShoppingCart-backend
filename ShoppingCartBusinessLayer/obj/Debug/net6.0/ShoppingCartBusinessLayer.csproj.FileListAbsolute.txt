@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\bin\Debug\net6.0\ShoppingCartBusinessLayer.deps.json
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\bin\Debug\net6.0\ShoppingCartBusinessLayer.dll
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\bin\Debug\net6.0\ShoppingCartBusinessLayer.pdb
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\bin\Debug\net6.0\ShoppingCartDataLayer.dll
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\bin\Debug\net6.0\ShoppingCartDataLayer.pdb
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ShoppingCartBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ShoppingCartBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ShoppingCartBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ShoppingCartBusinessLayer.AssemblyInfo.cs
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ShoppingCartBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ShoppingCartBusinessLayer.csproj.CopyComplete
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ShoppingCartBusinessLayer.dll
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\refint\ShoppingCartBusinessLayer.dll
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ShoppingCartBusinessLayer.pdb
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ref\ShoppingCartBusinessLayer.dll
