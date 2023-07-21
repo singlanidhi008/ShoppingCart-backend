@@ -105,7 +105,7 @@ namespace ShoppingCartBusinessLayer
             builder.Services.AddSession();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
+            builder.Services.AddHttpContextAccessor();
             builder.Services.AddControllersWithViews();
             builder.Services.AddDistributedMemoryCache();
 

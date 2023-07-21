@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -14,5 +15,6 @@ namespace ShoppingCartDataLayer.Models
         public string FirstName { get; set; }=string.Empty;
         [Required(ErrorMessage ="Enter Last Name Please")]
         public string LastName { get; set;} = string.Empty;
+        public string Image { get; set; } = string.Empty;
     }
 }

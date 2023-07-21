@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -20,5 +21,7 @@ namespace ShoppingCartDataLayer.Models
         public string  Password { get; set; }
         [Compare("Password", ErrorMessage = "Passwords do not match")]
         public string  ConfirmPassword { get; set; }
+
+        public IFormFile? Image { get; set; }
     }
 }

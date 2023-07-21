@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using ShoppingCartBusinessLayer.Services;
@@ -17,6 +18,7 @@ namespace MvcCoreAssignment.Controllers
         private readonly UserManager<User> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly IAccountRepository _accountRepository;
+        private readonly IWebHostEnvironment _webHostEnvironment;
         
         private readonly IConfiguration _configuration;
 
@@ -24,12 +26,14 @@ namespace MvcCoreAssignment.Controllers
             UserManager<User> userManager,
             RoleManager<IdentityRole> roleManager,
             IConfiguration configuration,
-            IAccountRepository accountRepository)
+            IAccountRepository accountRepository,
+            IWebHostEnvironment webHostEnvironment)
         {
             _userManager = userManager;
             _roleManager = roleManager;
             _configuration = configuration;
             _accountRepository = accountRepository;
+            _webHostEnvironment = webHostEnvironment;
         }
         [HttpGet("users")]
         public IActionResult GetUsers()
@@ -84,7 +88,7 @@ namespace MvcCoreAssignment.Controllers
         //}
         [HttpPost]
         [Route("register")]
-        public async Task<IActionResult> Register([FromBody] UserRegistrationDto model)
+        public async Task<IActionResult> Register([FromForm] UserRegistrationDto model)
         {
             var userExists = await _userManager.FindByNameAsync(model.Username);
             //if (userExists != null)
@@ -101,9 +105,28 @@ namespace MvcCoreAssignment.Controllers
                 Email = model.Email,
                 SecurityStamp = Guid.NewGuid().ToString(),
                 UserName = model.Username,
-     
+               
             };
-           
+            if (model.Image.Length > 0)
+            {
+                string path = Path.Combine(_webHostEnvironment.WebRootPath + "\\uploads\\");
+
+                if (!Directory.Exists(path))
+                {
+                    Directory.CreateDirectory(path);
+                }
+
+                string filename = model.Image.FileName;
+                string filePath = Path.Combine(path, filename);
+
+
+                using (FileStream filestream = new FileStream(filePath, FileMode.Create))
+                {
+                    await model.Image.CopyToAsync(filestream);
+                    user.Image = "https://localhost:44357/uploads/" + filename;
+                }
+            }
+
             var result = await _userManager.CreateAsync(user, model.ConfirmPassword);
             if (result.Succeeded)
             {

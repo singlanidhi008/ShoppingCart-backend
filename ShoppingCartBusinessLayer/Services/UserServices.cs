@@ -15,8 +15,9 @@ namespace ShoppingCartBusinessLayer.Services
     {
         readonly IGenericRepository<Products> genericRepository;
         readonly IWebHostEnvironment _webHostEnvironment;
+         readonly IHttpContextAccessor _httpContextAccessor;
 
-        public UserServices( IGenericRepository<Products> genericRepository,IWebHostEnvironment webHostEnvironment)
+        public UserServices( IGenericRepository<Products> genericRepository,IWebHostEnvironment webHostEnvironment,IHttpContextAccessor _httpContextAccessor)
         {
             this.genericRepository = genericRepository;
             this._webHostEnvironment = webHostEnvironment;

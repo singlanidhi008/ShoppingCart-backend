@@ -74,7 +74,8 @@ namespace ShoppingCartBusinessLayer.Services
                 IsSuccess = true,
                 Token = encryptedToken,
                 Username = user.UserName,
-                Role = userRoles[0]
+                Role = userRoles[0],
+                Image=user.Image
             };
         }
     }

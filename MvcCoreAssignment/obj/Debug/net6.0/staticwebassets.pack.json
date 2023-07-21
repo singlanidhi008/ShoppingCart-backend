@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\uploads\\1234.jpg"
     },
     {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\29.760253444619167filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\29.760253444619167filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\45.425640831791945filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\45.425640831791945filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\99.64414829586057filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\99.64414829586057filename.jpg"
+    },
+    {
       "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\Fridge.jpg",
       "PackagePath": "staticwebassets\\uploads\\Fridge.jpg"
     },
@@ -15,6 +27,26 @@
     {
       "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\MyImage.png",
       "PackagePath": "staticwebassets\\uploads\\MyImage.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\Tshirt.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Tshirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\blob",
+      "PackagePath": "staticwebassets\\uploads"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\filename.2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\filename.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\filename.2jpg",
+      "PackagePath": "staticwebassets\\uploads\\filename.2jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\filename.jpg"
     },
     {
       "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\image_2023_07_08T06_13_32_092Z.png",

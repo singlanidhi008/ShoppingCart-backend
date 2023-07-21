@@ -101,7 +101,7 @@ namespace MvcCoreAssignment.Controllers
         [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete([FromRoute] Guid id)
         {
-            var GetTheId = await genericRepository.GetById(id);
+            var GetTheId = await _userServices.GetId(id);
             if(GetTheId!=null)
             {
                 await genericRepository.Delete(id);

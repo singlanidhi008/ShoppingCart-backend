@@ -52,14 +52,14 @@ namespace ShoppingCartDataLayer.Migrations
                         new
                         {
                             Id = "2569645b-3256-49ba-ab5f-f02fc81a9527",
-                            ConcurrencyStamp = "36f0130a-aaee-4acb-b272-ebc92605b600",
+                            ConcurrencyStamp = "0116e660-0771-4349-a396-f4230970f1c0",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         },
                         new
                         {
                             Id = "f607f7ef-01df-4943-b46b-2726091e7697",
-                            ConcurrencyStamp = "ad28a42e-162a-4b31-9800-fd56aa242c49",
+                            ConcurrencyStamp = "c5bde3f1-704b-40c4-9e16-f77c6e5aa209",
                             Name = "User",
                             NormalizedName = "USER"
                         });
@@ -287,8 +287,15 @@ namespace ShoppingCartDataLayer.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Image")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("LastName")
                         .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nidhi")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasDiscriminator().HasValue("User");
@@ -298,18 +305,19 @@ namespace ShoppingCartDataLayer.Migrations
                         {
                             Id = "e215ed86-87d2-443a-9d10-d8cd761a0a5e",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "ae2a7e5e-b3e6-4504-8dd5-85b1e4a88730",
+                            ConcurrencyStamp = "77ee8533-5b23-4744-a5b9-d8904da78d2b",
                             Email = "admin01@gmail.com",
                             EmailConfirmed = false,
                             LockoutEnabled = false,
                             NormalizedEmail = "admin01@gmail.com",
-                            PasswordHash = "AQAAAAEAACcQAAAAELbm+QCZLAGvZRaTY/YxdMNztuw49GFmlzxt9Ult9pIg3L7pGC4GgXUKYOlCPXR/xQ==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEJWANYIyeM326Z9+iWe7ypqKR6nwwodhJyhDEuvy6fd7OFzHLe08Wjz63uKCm13SCg==",
                             PhoneNumber = "8989898989",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "460b9a5b-1d08-472c-9f89-e05ef5b9234c",
+                            SecurityStamp = "7aeedc16-32c7-449c-8fab-a33e8f6e3a90",
                             TwoFactorEnabled = false,
                             UserName = "admin01@gmail.com",
                             FirstName = "",
+                            Image = "",
                             LastName = ""
                         });
                 });
