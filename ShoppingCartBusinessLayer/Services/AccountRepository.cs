@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using ShoppingCartDataLayer.Interfaces;
@@ -71,6 +73,7 @@ namespace ShoppingCartBusinessLayer.Services
             var encryptedToken = tokenHendeler.WriteToken(token);
             return new LoginREsModel()
             {
+                 id=user.Id,
                 IsSuccess = true,
                 Token = encryptedToken,
                 Username = user.UserName,
@@ -78,6 +81,10 @@ namespace ShoppingCartBusinessLayer.Services
                 Image=user.Image
             };
         }
+
+      
+
+
     }
 
 }

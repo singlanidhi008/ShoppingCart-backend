@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Hosting;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using ShoppingCartBusinessLayer.Services;
 using ShoppingCartDataLayer.Interfaces;
 using ShoppingCartDataLayer.Models;
+using System.Data;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -19,21 +21,25 @@ namespace MvcCoreAssignment.Controllers
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly IAccountRepository _accountRepository;
         private readonly IWebHostEnvironment _webHostEnvironment;
-        
         private readonly IConfiguration _configuration;
+        private readonly AuthService _Service;
+        private readonly IGenericRepository<User> _genericRepository;
 
         public AuthController(
             UserManager<User> userManager,
             RoleManager<IdentityRole> roleManager,
             IConfiguration configuration,
             IAccountRepository accountRepository,
-            IWebHostEnvironment webHostEnvironment)
+            IWebHostEnvironment webHostEnvironment, AuthService Service, IGenericRepository<User> genericRepository)
         {
+            _Service = Service;
+            _genericRepository = genericRepository;
             _userManager = userManager;
             _roleManager = roleManager;
             _configuration = configuration;
             _accountRepository = accountRepository;
             _webHostEnvironment = webHostEnvironment;
+          
         }
         [HttpGet("users")]
         public IActionResult GetUsers()
@@ -57,35 +63,40 @@ namespace MvcCoreAssignment.Controllers
             }
             return Unauthorized();
         }
-        //public async Task<IActionResult> Login([FromBody] LoginModelDto model)
-        //{
-        //    var user = await _userManager.FindByNameAsync(model.Username);
-        //    if (user != null && await _userManager.CheckPasswordAsync(user, model.Password))
-        //    {
-        //        var userRoles = await _userManager.GetRolesAsync(user);
+        [HttpGet("GetUSerId/{id}")]
+        //[Route("{id:guid}")]
+        [Authorize(Roles = "Admin,User")]
+        public async Task<IActionResult> GetUserId([FromRoute] string id)
+        {
+            var result = await _genericRepository.GetById(id);
+            if (result == null)
+            {
+                return BadRequest("iD does not Exist");
+            }
+            return Ok(result);
 
-        //        var authClaims = new List<Claim>
-        //        {
-        //            new Claim(ClaimTypes.Name, user.UserName),
-        //            new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
-        //        };
+        }
+        [HttpPut]
+        [Route("{id}")]
+        [Authorize(Roles = "Admin,User")]
+        public async Task<IActionResult> UpdateProfile([FromForm] UpdateProfile updateProfile, [FromRoute] string id)
+        {
+            if (id == null)
+            {
+                return BadRequest("Invalid id provided.");
+            }
 
-        //        foreach (var userRole in userRoles)
-        //        {
-        //            authClaims.Add(new Claim(ClaimTypes.Role, userRole));
-        //        }
+            var result = await _Service.UpdateModel(updateProfile, id);
+            if (result == null)
+            {
+                return BadRequest("User not Updated");
+            }
 
-        //        var token = GenerateToken(authClaims);
+            return Ok(result);
+
+        }
 
 
-
-        //        return Ok(new JwtSecurityTokenHandler().WriteToken(token));
-
-
-        //    }
-
-        //    return Unauthorized();
-        //}
         [HttpPost]
         [Route("register")]
         public async Task<IActionResult> Register([FromForm] UserRegistrationDto model)

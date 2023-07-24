@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PZn5rJZKVqRYafps64D6YRGzy4zRAgqlGdSbXHMOJ0I=",
+  "Hash": "/PlQTbSLBV7z6tM2PdzaiU6oeM6SFa91pqf+YUxf6T4=",
   "Source": "MvcCoreAssignment",
   "BasePath": "_content/MvcCoreAssignment",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\45.425640831791945filename.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\50.75880072214509filename.jpg",
+      "SourceId": "MvcCoreAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\",
+      "BasePath": "_content/MvcCoreAssignment",
+      "RelativePath": "uploads/50.75880072214509filename.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\50.75880072214509filename.jpg"
     },
     {
       "Identity": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\99.64414829586057filename.jpg",

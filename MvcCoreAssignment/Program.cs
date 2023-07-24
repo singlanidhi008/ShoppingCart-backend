@@ -36,8 +36,11 @@ namespace ShoppingCartBusinessLayer
 
             builder.Services.AddTransient<IAccountRepository, AccountRepository>();
             builder.Services.AddTransient(typeof(IGenericRepository<Products>), typeof(GenericRepository<Products>));
+            builder.Services.AddTransient(typeof(IGenericRepository<User>), typeof(GenericRepository<User>));
+
             builder.Services.AddTransient<ProductServices>();
             builder.Services.AddTransient<UserServices>();
+            builder.Services.AddTransient<AuthService>();
             var jwtConfig = builder.Configuration.GetSection("Jwt");
             var secretKey = Encoding.ASCII.GetBytes(jwtConfig["SecretKey"]);
 

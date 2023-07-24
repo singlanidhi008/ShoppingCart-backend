@@ -42,10 +42,13 @@ namespace ShoppingCartBusinessLayer.Services
                 return false;
               }
 
-               public async Task<T> GetById(Guid id)
+               public async Task<T> GetById(object id)
                 {
-                return await dbSet.FindAsync(id);
+               var res = await dbSet.FindAsync(id);
+
+                return res;
                  }
+
                 public async Task<List<T>> GetAll()
                 {
                      return await dbSet.ToListAsync();

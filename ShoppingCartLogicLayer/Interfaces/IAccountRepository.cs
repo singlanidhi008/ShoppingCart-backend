@@ -10,6 +10,5 @@ namespace ShoppingCartDataLayer.Interfaces
     public interface IAccountRepository
     {
         Task<LoginREsModel> Login(LoginModelDto model);
-
     }
 }

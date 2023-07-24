@@ -8,6 +8,8 @@ namespace ShoppingCartDataLayer.Models
 {
     public class LoginREsModel
     {
+          
+        public string id { get; set; }
         public bool IsSuccess { get; set; }
         public string Username { get; set; } = string.Empty;
         public string Role { get; set; } = string.Empty;
