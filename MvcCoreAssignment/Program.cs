@@ -10,6 +10,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using MvcCoreAssignment;
+using OfficeOpenXml;
 using ShoppingCartBusinessLayer.Services;
 using ShoppingCartDataLayer;
 using ShoppingCartDataLayer.DbContext;
@@ -43,7 +44,7 @@ namespace ShoppingCartBusinessLayer
             builder.Services.AddTransient<AuthService>();
             var jwtConfig = builder.Configuration.GetSection("Jwt");
             var secretKey = Encoding.ASCII.GetBytes(jwtConfig["SecretKey"]);
-
+            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
             builder.Services.AddAuthentication(options =>
             {
                 options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;

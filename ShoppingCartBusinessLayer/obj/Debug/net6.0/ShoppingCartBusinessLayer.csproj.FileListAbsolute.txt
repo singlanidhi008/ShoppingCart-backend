@@ -1,4 +1,5 @@
 C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\bin\Debug\net6.0\ShoppingCartBusinessLayer.deps.json
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\bin\Debug\net6.0\ShoppingCartBusinessLayer.runtimeconfig.json
 C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\bin\Debug\net6.0\ShoppingCartBusinessLayer.dll
 C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\bin\Debug\net6.0\ShoppingCartBusinessLayer.pdb
 C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\bin\Debug\net6.0\ShoppingCartDataLayer.dll
@@ -12,4 +13,5 @@ C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug
 C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ShoppingCartBusinessLayer.dll
 C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\refint\ShoppingCartBusinessLayer.dll
 C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ShoppingCartBusinessLayer.pdb
+C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ShoppingCartBusinessLayer.genruntimeconfig.cache
 C:\Users\dell\source\repos\MvcCoreAssignment\ShoppingCartBusinessLayer\obj\Debug\net6.0\ref\ShoppingCartBusinessLayer.dll

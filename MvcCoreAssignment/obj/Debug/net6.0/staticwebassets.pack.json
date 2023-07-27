@@ -1,28 +1,620 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\0.5758290419405343filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0.5758290419405343filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\1.1623154458176188filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1.1623154458176188filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\10.17104580489432filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\10.17104580489432filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\11.418609301303317filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\11.418609301303317filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\11.856735941409324filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\11.856735941409324filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\11.954210105587304filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\11.954210105587304filename.jpg"
+    },
+    {
       "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\1234.jpg",
       "PackagePath": "staticwebassets\\uploads\\1234.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\13.158510321153184filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\13.158510321153184filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\13.16973485231603filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\13.16973485231603filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\13.172324861633179filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\13.172324861633179filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\14.49114316949478filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\14.49114316949478filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\14.558633102373753filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\14.558633102373753filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\14.613741378074895filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\14.613741378074895filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\15.41658149447247filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\15.41658149447247filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\15.604022726401023filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\15.604022726401023filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\17.611604921767277filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\17.611604921767277filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\17.7811041971109filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\17.7811041971109filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\18.38502282078236filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\18.38502282078236filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\19.71687850381718filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\19.71687850381718filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\19.854484019563866filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\19.854484019563866filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\2.216728747684793filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2.216728747684793filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\2.4788270773031362filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2.4788270773031362filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\2.6845342305624076filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2.6845342305624076filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\20.444515709625687filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20.444515709625687filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\20.531583744502345filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20.531583744502345filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\20.581926346389135filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20.581926346389135filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\20.68356901325954filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20.68356901325954filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\20.74762823222278filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\20.74762823222278filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\22.254828156416018filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\22.254828156416018filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\23.537306049617435filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\23.537306049617435filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\23.69928195460669filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\23.69928195460669filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\23.718805675560528filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\23.718805675560528filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\24.353615144133055filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\24.353615144133055filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\25.72572166635856filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\25.72572166635856filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\26.26896194049968filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\26.26896194049968filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\26.49920054314856filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\26.49920054314856filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\27.7234105229911filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\27.7234105229911filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\27.81499049255882filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\27.81499049255882filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\28.050701623314666filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\28.050701623314666filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\28.77692494182429filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\28.77692494182429filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\29.196453510903186filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\29.196453510903186filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\29.60159347012783filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\29.60159347012783filename.jpg"
     },
     {
       "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\29.760253444619167filename.jpg",
       "PackagePath": "staticwebassets\\uploads\\29.760253444619167filename.jpg"
     },
     {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\3.355939864015234filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3.355939864015234filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\3.547285472533246filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3.547285472533246filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\30.19833646149488filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\30.19833646149488filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\30.537622893386263filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\30.537622893386263filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\31.46307685316834filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\31.46307685316834filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\32.34470724757477filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\32.34470724757477filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\34.028447070696075filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\34.028447070696075filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\34.14169639926532filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\34.14169639926532filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\34.80954659968412filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\34.80954659968412filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\34.87752194716125filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\34.87752194716125filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\35.08749701931799filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\35.08749701931799filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\35.619771837054046filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\35.619771837054046filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\36.34835832791885filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\36.34835832791885filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\37.05745471786494filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\37.05745471786494filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\37.294402656264495filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\37.294402656264495filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\37.62485067222905filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\37.62485067222905filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\37.71008466063643filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\37.71008466063643filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\37.916883750847205filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\37.916883750847205filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\38.742026496315994filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\38.742026496315994filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\39.38203304423735filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\39.38203304423735filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\39.76747360706141filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\39.76747360706141filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\4.283068627141984filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4.283068627141984filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\41.06664646940492filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\41.06664646940492filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\41.47488548003943filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\41.47488548003943filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\41.962611420069095filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\41.962611420069095filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\42.615827497132045filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\42.615827497132045filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\44.05678018387391filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\44.05678018387391filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\45.163929147606076filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\45.163929147606076filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\45.23388141566274filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\45.23388141566274filename.jpg"
+    },
+    {
       "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\45.425640831791945filename.jpg",
       "PackagePath": "staticwebassets\\uploads\\45.425640831791945filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\46.72090822521759filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\46.72090822521759filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\47.44690026195475filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\47.44690026195475filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\47.45556510579814filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\47.45556510579814filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\48.00333796002967filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\48.00333796002967filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\48.11490052114109filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\48.11490052114109filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\48.96373284607725filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\48.96373284607725filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\49.574382998684285filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\49.574382998684285filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\49.75952486292381filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\49.75952486292381filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\50.35796901307339filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\50.35796901307339filename.jpg"
     },
     {
       "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\50.75880072214509filename.jpg",
       "PackagePath": "staticwebassets\\uploads\\50.75880072214509filename.jpg"
     },
     {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\50.77988134916935filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\50.77988134916935filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\50.93400810092908filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\50.93400810092908filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\50.96456201278572filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\50.96456201278572filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\52.0977054094929filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\52.0977054094929filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\52.14770755758893filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\52.14770755758893filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\52.485944790619655filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\52.485944790619655filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\53.17194812120933filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\53.17194812120933filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\53.2847878199467filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\53.2847878199467filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\53.81754464952206filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\53.81754464952206filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\54.35228211852105filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\54.35228211852105filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\54.48882507722652filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\54.48882507722652filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\55.56624506250283filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\55.56624506250283filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\56.13560752191291filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\56.13560752191291filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\56.40553726803568filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\56.40553726803568filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\56.78645629712407filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\56.78645629712407filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\57.34626326214589filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\57.34626326214589filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\58.56850072636106filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\58.56850072636106filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\59.243340999525465filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\59.243340999525465filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\6.054623631840439filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6.054623631840439filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\6.478172328869847filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6.478172328869847filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\6.9851586456423975filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6.9851586456423975filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\60.41853511903095filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\60.41853511903095filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\60.62698249993503filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\60.62698249993503filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\60.77841908951795filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\60.77841908951795filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\61.3254121725256filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\61.3254121725256filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\61.59662159198744filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\61.59662159198744filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\62.07883566973798filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\62.07883566973798filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\63.36305239993647filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\63.36305239993647filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\63.82191896968743filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\63.82191896968743filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\64.28085874007192filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\64.28085874007192filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\66.40723627843683filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\66.40723627843683filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\66.71757132022942filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\66.71757132022942filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\68.10239337307465filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\68.10239337307465filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\68.43200204529975filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\68.43200204529975filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\7.186880706396193filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7.186880706396193filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\70.21405514311012filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\70.21405514311012filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\70.94813779550135filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\70.94813779550135filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\71.11309728572293filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\71.11309728572293filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\73.33771443537923filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\73.33771443537923filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\74.9572723695447filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\74.9572723695447filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\76.83585511742497filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\76.83585511742497filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\78.02977023888147filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\78.02977023888147filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\79.39635228123127filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\79.39635228123127filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\79.45331972913725filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\79.45331972913725filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\79.60555104612837filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\79.60555104612837filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\80.78364148151371filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\80.78364148151371filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\82.4634115743195filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\82.4634115743195filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\82.84543524628623filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\82.84543524628623filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\83.6177696026573filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\83.6177696026573filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\83.9110801058633filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\83.9110801058633filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\86.36219598725161filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\86.36219598725161filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\86.58712492830955filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\86.58712492830955filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\87.59684158080046filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\87.59684158080046filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\87.81449893959574filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\87.81449893959574filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\88.29333443821803filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\88.29333443821803filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\88.53760865464062filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\88.53760865464062filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\91.17174877287721filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\91.17174877287721filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\91.86299982379522filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\91.86299982379522filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\92.62179584348993filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\92.62179584348993filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\92.78830396921943filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\92.78830396921943filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\95.68857587992714filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\95.68857587992714filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\95.81121987227293filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\95.81121987227293filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\96.48260944533489filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\96.48260944533489filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\97.63638533293553filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\97.63638533293553filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\97.65353616527561filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\97.65353616527561filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\98.1089959512387filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\98.1089959512387filename.jpg"
+    },
+    {
       "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\99.64414829586057filename.jpg",
       "PackagePath": "staticwebassets\\uploads\\99.64414829586057filename.jpg"
     },
     {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\99.68807934590163filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\99.68807934590163filename.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\99.86853012378324filename.jpg",
+      "PackagePath": "staticwebassets\\uploads\\99.86853012378324filename.jpg"
+    },
+    {
       "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\Fridge.jpg",
       "PackagePath": "staticwebassets\\uploads\\Fridge.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\IMG-20200716-WA0018.jpg",
+      "PackagePath": "staticwebassets\\uploads\\IMG-20200716-WA0018.jpg"
     },
     {
       "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\Led.jpg",
@@ -59,6 +651,10 @@
     {
       "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\kissan.pdf",
       "PackagePath": "staticwebassets\\uploads\\kissan.pdf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\MvcCoreAssignment\\MvcCoreAssignment\\wwwroot\\uploads\\pro.png",
+      "PackagePath": "staticwebassets\\uploads\\pro.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MvcCoreAssignment.Microsoft.AspNetCore.StaticWebAssets.props",

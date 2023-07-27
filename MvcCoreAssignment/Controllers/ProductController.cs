@@ -109,10 +109,35 @@ namespace MvcCoreAssignment.Controllers
             }
             return BadRequest("id does not exist");
         }
-     
+        [HttpGet("ExportProductsToExcel")]
+        [Authorize(Roles = "Admin,User")]
+        public async Task<IActionResult> ExportProductsToExcel()
+        {
+                
+                var excelContent = await _userServices.ExportProductsToExcel();
+                var fileName = "products.xlsx";
+                //var contentDisposition = new System.Net.Mime.ContentDisposition
+                //{
+                //    FileName = fileName,
+                //    Inline = false
+                //};
+                //Response.Headers.Add("Content-Disposition", contentDisposition.ToString());
+                return File(excelContent, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileName);
+            
+        }
+        [HttpPost("ImportData")]
+        [Authorize(Roles = "Admin")] 
+        public async Task<IActionResult> ImportData(IFormFile file)
+        {
+            if (file == null || file.Length == 0)
+            {
+                return BadRequest("No file selected for import.");
+            }
 
+            var result = await _userServices.ImportDataFromFile(file);
+            return Ok(new { message = result });
+        }
 
-        
 
 
     }
